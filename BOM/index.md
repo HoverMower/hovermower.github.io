@@ -5,7 +5,9 @@ keywords: bom, bill of material
 last_updated: September 29, 2021
 summary: "List of needed parts"
 sidebar: BOM
-permalink: bom.html
+permalink: BOM/bom
+nav_oder: 3
+has_children: true
 ---
 
 ## Bill of material

@@ -5,7 +5,8 @@ keywords: bom, bill of tools
 last_updated: September 29, 2021
 summary: "List of needed tools"
 sidebar: BOM
-permalink: tools.html
+permalink: BOM/tools
+parent: BOM
 ---
 
 ## Bill of tools
