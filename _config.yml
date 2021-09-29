@@ -1,4 +1,5 @@
 #theme: jekyll-theme-slate
-remote_theme: rundocs/jekyll-rtd-theme
 title: HoverMower
-include: ['BOM']
+remote_theme: rundocs/jekyll-rtd-theme
+plugins:
+- jekyll-remote-theme
