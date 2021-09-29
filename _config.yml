@@ -1,5 +1,6 @@
 #theme: jekyll-theme-slate
 title: HoverMower
-remote_theme: rundocs/jekyll-rtd-theme
+#remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: pmarsceill/just-the-docs
 plugins:
 - jekyll-remote-theme
