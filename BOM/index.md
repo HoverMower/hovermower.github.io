@@ -13,10 +13,11 @@ This page contains details about needed parts like nuts and bolts.
 
 ## Printed parts
 | Part | Quantity | Comments |
+|-------|--------|---------|
 |motor_lower|1|part which takes Hoverboard Motors|
 |motor_upper|1| |
 |wheel_arch| 2 | one part needs to be mirrored |
-|mow_lower| 1 | lower part which build the basis of mow section
+|mow_lower| 1 | lower part which build the basis of mow section |
 
 ## Nuts, Bolts
 | Part | Quantity | Comments |
