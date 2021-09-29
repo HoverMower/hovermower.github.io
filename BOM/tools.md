@@ -6,7 +6,7 @@ last_updated: September 29, 2021
 summary: "List of needed tools"
 sidebar: BOM
 permalink: BOM/tools
-parent: BOM
+parent: Bill of material
 ---
 
 ## Bill of tools
