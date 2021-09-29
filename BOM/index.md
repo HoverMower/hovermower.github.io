@@ -12,6 +12,7 @@ permalink: bom.html
 This page contains details about needed parts like nuts and bolts.
 
 ## Printed parts
+
 | Part | Quantity | Comments |
 |-------|--------|---------|
 | motor_lower | 1 | part which takes Hoverboard Motors|
@@ -20,6 +21,7 @@ This page contains details about needed parts like nuts and bolts.
 | mow_lower | 1 | lower part which build the basis of mow section |
 
 ## Nuts, Bolts
+
 | Part | Quantity | Comments |
 |-------|--------|---------|
 | Knurled brass nut M4 OD 6.3mm height 8mm|xxx|xxx|
@@ -30,6 +32,7 @@ This page contains details about needed parts like nuts and bolts.
 | Washers M5 | 10 | |
 
 ## Others
+
 | Part | Quantity | Comments |
 |-------|--------|---------|
 | Rubber O-Ring, 35mm ID, 3mm thick | 4 | used as seal between motor_lower and mow_lower |
