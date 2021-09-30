@@ -5,7 +5,7 @@ keywords: STL, instructions, print
 last_updated: September 29, 2021
 summary: "Information about how to print"
 sidebar: print_instructions
-permalink: print_instructions.html
+permalink: print.html
 nav_order: 3
 has_children: false
 ---
