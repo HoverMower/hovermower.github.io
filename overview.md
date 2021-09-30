@@ -13,8 +13,6 @@ has_children: false
 }
 
 ## HoverMower Overview
-<div>
-    <iframe src="/render/Mower_rotation.html" class="is-fullwidth" height="315px"
-    </iframe>
-</div>
+{% include mapName.html Mower_rotation.html %}
+
 ## Dimensions
