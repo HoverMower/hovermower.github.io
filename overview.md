@@ -8,11 +8,8 @@ sidebar: Overview
 parent: Home
 has_children: false
 ---
-.is-fullwidth {
-    width: 100%;
-}
 
 ## HoverMower Overview
-{% include Mower_rotation.html %}
+[Find a 360 degree render here ](_includes/Mower_rotation.html)
 
 ## Dimensions
