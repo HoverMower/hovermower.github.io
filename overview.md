@@ -10,6 +10,6 @@ has_children: false
 ---
 
 ## HoverMower Overview
-[Find a 360 degree render here ](_includes/Mower_rotation.html)
+[Find a 360 degree render here ](/render/Mower_rotation.html)
 
 ## Dimensions
