@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "HoverMower Overview"
+permalink: /
+---
 
 ## Welcome to HoverMower
 HoverMower is a robot lawn mower based on Hoverboard Hardware. 
