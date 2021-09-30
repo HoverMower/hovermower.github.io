@@ -4,3 +4,4 @@ title: HoverMower
 remote_theme: pmarsceill/just-the-docs
 plugins:
 - jekyll-remote-theme
+logo: "/render/Mower_front.png"

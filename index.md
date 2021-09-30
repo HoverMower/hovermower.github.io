@@ -1,3 +1,15 @@
+---
+title: Welcome
+tags: [formatting]
+keywords: welcome, introduce
+last_updated: September 30, 2021
+summary: "Project overview"
+sidebar: Home
+permalink: home
+nav_oder: 1
+has_children: false
+---
+
 ## Welcome to HoverMower
 HoverMower is a robot lawn mower based on Hoverboard Hardware. 
 
@@ -18,3 +30,7 @@ https://github.com/alex-makarov/hoverboard-driver
 
 ## Notes
 This project is still under development and far away from complete. So please check for updates regulary.
+
+## DISCLAIMER
+This project comes without any warranty. It is still under development and things will change. Also as my build is not complete so far,
+files may not fit together as planned. You build at your own risk.
