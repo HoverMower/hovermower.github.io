@@ -1,15 +1,3 @@
----
-title: Welcome
-tags: [formatting]
-keywords: welcome, introduce
-last_updated: September 30, 2021
-summary: "Project overview"
-sidebar: Home
-permalink: home
-nav_order: 1
-has_children: false
----
-
 ## Welcome to HoverMower
 HoverMower is a robot lawn mower based on Hoverboard Hardware. 
 
