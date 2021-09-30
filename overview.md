@@ -8,8 +8,13 @@ sidebar: Overview
 parent: Home
 has_children: false
 ---
+.is-fullwidth {
+    width: 100%;
+}
 
 ## HoverMower Overview
-{% include /render/Mower_rotation.html %}
+
+    <iframe src="/render/Mower_rotation.html" class="is-fullwidth" height="315px"
+    </iframe>
 
 ## Dimensions
