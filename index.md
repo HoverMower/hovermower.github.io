@@ -19,6 +19,9 @@ As the motors are hub motors, it is incredible easy to mount them on any kind of
 ## What you will find here
 This project will consists out of different repositories. I tried to build it as general as possible meaning, it is up to you to add hard- and software to your own needs. The main repository contains plans, BOM and instructions for a Chassis build by 3D printer. As software and electronics is currently not finalized and because you might want to use other stuff like me, I will only publish these according to my needs. Please feel free to add what ever you need to your build. For example, if you want to build it based on Ardumower Hardware, it can be achieved by just using the chassis plans and ignore the rest.
 
+- [3D files of Chassis](https://github.com/HoverMower/hovermower-chassis)
+
+
 ## Additional resources 
 HoverMower uses a custom Firmware to control motors, which gets flashed to the origin HoverBoard PCB. The firmware uses serial commands to drive motor and send sensor data back. You can hook up any kind of MCU, no matter if it is Arduino, RaspberryPI or NVidia Jetson. The firmware is not part of this project, so please have a look here for any reference or instructions.
 [https://github.com/alex-makarov/hoverboard-firmware-hack-FOC](https://github.com/alex-makarov/hoverboard-firmware-hack-FOC)
