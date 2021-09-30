@@ -18,10 +18,10 @@ This project will consists out of different repositories. I tried to build it as
 
 ## Additional resources 
 HoverMower uses a custom Firmware to control motors, which gets flashed to the origin HoverBoard PCB. The firmware uses serial commands to drive motor and send sensor data back. You can hook up any kind of MCU, no matter if it is Arduino, RaspberryPI or NVidia Jetson. The firmware is not part of this project, so please have a look here for any reference or instructions.
-[https://github.com/alex-makarov/hoverboard-firmware-hack-FOC](Hoverboard Firmware Hack FOC)
+[https://github.com/alex-makarov/hoverboard-firmware-hack-FOC](https://github.com/alex-makarov/hoverboard-firmware-hack-FOC)
 
 If your robot uses ROS (like I plan to do), you can find additional ROS package to control motors by cmd_vel messages here
-[https://github.com/alex-makarov/hoverboard-driver](Hoverboard ROS driver)
+[https://github.com/alex-makarov/hoverboard-driver](https://github.com/alex-makarov/hoverboard-driver)
 
 
 ## Notes
