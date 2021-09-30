@@ -13,6 +13,6 @@ has_children: false
 }
 
 ## HoverMower Overview
-{% include mapName.html Mower_rotation.html %}
+{% include Mower_rotation.html %}
 
 ## Dimensions
