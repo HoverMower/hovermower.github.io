@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 description: "HoverMower Overview"
 permalink: /
+has_children: true
 ---
 
 ## Welcome to HoverMower
