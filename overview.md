@@ -10,6 +10,6 @@ has_children: false
 ---
 
 ## HoverMower Overview
-![](/render/Mower_rotation.html)
+{% include /render/Mower_rotation.html %}
 
 ## Dimensions
