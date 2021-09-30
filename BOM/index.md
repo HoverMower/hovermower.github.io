@@ -6,7 +6,7 @@ last_updated: September 29, 2021
 summary: "List of needed parts"
 sidebar: BOM
 permalink: BOM/bom
-nav_oder: 2
+nav_order: 2
 has_children: true
 ---
 
