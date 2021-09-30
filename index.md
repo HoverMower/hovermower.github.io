@@ -12,7 +12,8 @@ HoverMower is a robot lawn mower based on Hoverboard Hardware.
 ![](/render/Mower_front.png)
 
 ## Why Hoverboard 
-In past years, Hoverboards became popular toys. They are build around two really strong brushless hub motors. Also they are equipped with a STM32 based PCB which acts as motor driver. You will also get a 10S2P Li-Ion battery and charger. As many peopple don't use their boards any more, you will find them in after market for only a few €. I paid 20€ for the Hoverboard which acts as base of this project. You will not be able to beat this price for two strong motors, motor driver and battery. 
+In past years, Hoverboards became popular toys. They are build around two really strong brushless hub motors. Also they are equipped with a STM32 based PCB which acts as motor driver. 
+You will also get a 10S2P Li-Ion battery and charger. As many people don't use their boards any more, you will find them in after market for only a few €. I paid 20€ for the Hoverboard which acts as base of this project. You will not be able to beat this price for two strong motors, motor driver and battery. 
 As the motors are hub motors, it is incredible easy to mount them on any kind of chassis.
 
 ## What you will find here

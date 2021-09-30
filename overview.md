@@ -15,7 +15,7 @@ has_children: false
 ## Chassis details
 The chassis consists of only a few but large parts. The front section (white in images) acts as a bumper. This part is not attached fixed to the rest of chassis. 
 Instead there are silicone or rupper dampers, which allows the front cover to move a bit. If the robot hits an obstacle, front cover will slide from its origin position.
-This mis-placement triggers micro switches. This way, robot can detect, if it hits an obstacle or not.
+This mis-placement triggers micro switches. This way, robot can detect, if it hits an obstacle.
 
 ## Technical details
 
