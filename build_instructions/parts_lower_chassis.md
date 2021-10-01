@@ -1,12 +1,12 @@
 ---
 title: Parts of lower chassis
 tags: [formatting]
-keywords: STL, instructions, print
+keywords: instructions
 last_updated: September 29, 2021
-summary: "Information about how to print"
+summary: "How to build lower chassis"
 sidebar: parts_lower_chassis
 permalink: parts_lower_chassis.html
-parent: Print instructions
+parent: Build instructions
 has_children: false
 ---
 ## Lower Chassis
@@ -39,7 +39,7 @@ push buttons, kill switches, screens or whatever you want. This cover gets secur
 Use superglue to keep it in place, if needed.
 The last brass nut gets used to keep PCB Box in place. You find this hole at the front (torwards Mow section), right beneath one of the M3 screw holes.
 
-![](/render/Motor_section.png)
+![](/render/Motor-section.png)
 
 ## Front section
 The front section consists of two parts only. These parts will be the housing of mow motors and maybe additional electronics. 

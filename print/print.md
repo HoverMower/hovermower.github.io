@@ -7,7 +7,7 @@ summary: "Information about how to print"
 sidebar: print_instructions
 permalink: print.html
 nav_order: 3
-has_children: true
+has_children: false
 ---
 ## Print instructions
 
