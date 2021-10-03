@@ -31,10 +31,11 @@ This page contains details about needed parts like nuts and bolts.
 | Cylinder screw M2 x 15 | 4 | for bumper micro switches | 
 | Cylinder screw M4 x 12 | 8 | to bold wheel arches to motor_lower |
 | Cylinder screw M5 x 15 | 10 | to bold motor_lower and mow_lower together | 
-| Nuts M5 | 10 | |
+| Cylinder screw M5 x 35 (40) | 8 | to clamp hoverboard motors
+| Nuts M5 | 18 | |
 | Washers M2 | 8 | as spacers for bumper switches, alternative maybe M3 |
 | Washers M4 | 8 | used at wheel arch |
-| Washers M5 | 20 | |
+| Washers M5 | 28 | |
 
 ## Others
 
