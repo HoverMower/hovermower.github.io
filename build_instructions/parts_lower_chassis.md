@@ -1,5 +1,5 @@
 ---
-title: Parts of lower chassis
+title: Lower chassis
 tags: [formatting]
 keywords: instructions
 last_updated: September 29, 2021
@@ -7,7 +7,7 @@ summary: "How to build lower chassis"
 sidebar: parts_lower_chassis
 permalink: parts_lower_chassis.html
 parent: Build instructions
-has_children: false
+has_children: true
 nav_order: 2
 ---
 ## Lower Chassis

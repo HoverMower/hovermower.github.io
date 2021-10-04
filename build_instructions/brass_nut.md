@@ -2,7 +2,7 @@
 title: How to set knurled brass nuts
 tags: [formatting]
 keywords: instructions
-last_updated: Octpber 04, 2021
+last_updated: October 04, 2021
 summary: "How to set knurled brass nuts"
 sidebar: knurled brass nut
 permalink: brass_nut.html
