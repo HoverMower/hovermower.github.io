@@ -4,7 +4,7 @@ tags: [formatting]
 keywords: instructions
 last_updated: October 04, 2021
 summary: "How to set knurled brass nuts"
-sidebar: Hoverboard Motors
+sidebar: Hoverboard_motors
 permalink: Hoverboard_motors.html
 parent: Lower chassis
 nav_order: 1
