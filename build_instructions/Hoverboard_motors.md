@@ -7,6 +7,7 @@ summary: "How to set knurled brass nuts"
 sidebar: Hoverboard_motors
 permalink: Hoverboard_motors.html
 parent: Lower chassis
+grand_parent: Build instructions
 nav_order: 1
 has_children: false
 ---
