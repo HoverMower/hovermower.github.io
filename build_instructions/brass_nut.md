@@ -4,8 +4,8 @@ tags: [formatting]
 keywords: instructions
 last_updated: Octpber 04, 2021
 summary: "How to set knurled brass nuts"
-sidebar: build_instructions
-permalink: build.html
+sidebar: knurled brass nut
+permalink: brass_nut.html
 parent: Build instructions
 nav_order: 1
 has_children: false
