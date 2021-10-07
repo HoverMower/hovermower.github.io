@@ -1,5 +1,5 @@
 ---
-title: front section
+title: Front section
 tags: [formatting]
 keywords: instructions
 last_updated: October 07, 2021
