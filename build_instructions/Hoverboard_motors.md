@@ -8,7 +8,7 @@ sidebar: Hoverboard_motors
 permalink: Hoverboard_motors.html
 parent: Lower chassis
 grand_parent: Build instructions
-nav_order: 1
+nav_order: 3
 has_children: false
 ---
 ## Mount Hoverboard Motors to rear section
