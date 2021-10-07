@@ -15,7 +15,7 @@ has_children: false
 Both sections gets combined by using 10 M5x18 screws, 10 M5 nuts and 20 washers M5. You can route your cables between both sections by using one of the four
 large cut outs. Between both sections, rubber O-Ring with an inner diameter of 35mm are used for sealing. Alternatively, you can use some silicone.
 
-You can sue superglue to keep O-Rings in place while mounting. Just add a few drops into each groove.
+You can use superglue to keep O-Rings in place while mounting. Just add a few drops into each groove.
 ![](/images/Rear_section_o_Ring.jpg)
 
 
