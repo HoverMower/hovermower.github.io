@@ -21,7 +21,7 @@ To ease printing, there is a bridge below the large, center hole. First you need
 Now insert two M5 nuts at the bottom of the caster block. You may need to use superglue to keep them in place.
 ![](/images/caster_block_2.jpg)
 
-Next, simple bold the caster block to the lower chassis. Use M5x45 as vertical bolds. Here  don't use washers. Next, use M5x50 and bold them horizontically by using washers and nuts.
+Next, simple screw the caster block to the lower chassis. Use M5x45 as vertical bolts. Here  don't use washers. Next, use M5x50 and screw them horizontically by using washers and nuts.
 ![](/images/caster_block_1.jpg)
 
 ## Prepare caster wheel

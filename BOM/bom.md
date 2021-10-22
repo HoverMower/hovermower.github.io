@@ -29,11 +29,11 @@ This page contains details about needed parts like nuts and bolts.
 | Knurled brass nut M3, OD .. height 4mmm | min. 44  | qty depends on your electronic. Purchase some more  |
 | Knurled brass nut M4 OD 6.3mm height 8mm| 8 |xxx|
 | Cylinder screw M2 x 20 | 4 | for bumper micro switches | 
-| Cylinder screw M3 x 10  | 1 | bold front nose parts together |
-| Counter sunk screw M3 x 10 | 2 | bold bumper parts together |
-| Cylinder screw M3 x 15 | 34 | bold front cover parts together |
-| Cylinder screw M4 x 12 | 8 | to bold wheel arches to motor_lower |
-| Cylinder screw M5 x 18 | 10 | to bold motor_lower and mow_lower together | 
+| Cylinder screw M3 x 10  | 1 | bolt front nose parts together |
+| Counter sunk screw M3 x 10 | 2 | bolt bumper parts together |
+| Cylinder screw M3 x 15 | 34 | bolt front cover parts together |
+| Cylinder screw M4 x 12 | 8 | to bolt wheel arches to motor_lower |
+| Cylinder screw M5 x 18 | 10 | to bolt motor_lower and mow_lower together | 
 | Cylinder screw M5 x 35 (40) | 8 | to clamp hoverboard motors |
 | Cylinder screw M5 x 45 | 2 | Caster wheel block, vertically |
 | Cylinder screw M5 x 50 | 2 | Caster wheel block, horizontally |
