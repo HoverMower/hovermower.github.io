@@ -59,5 +59,6 @@ This page contains details about needed parts like nuts and bolts.
 | Caster wheel 75mm diameter, 100mm total height | 1 | no flange, no brakes |
 | Cable Gland M12 | 2 | to guide cables between front cover and mow section (i. e. LED or charge connector |
 | Subminiature roller switch Marquardt 1050.5702 | 2 | as bumper switches |
-| Super glue | 1 | helpful to secure rubber parts |
+| Super glue | 1 | |
+| 2K epoxy glue or similar | 1 | glue Nose left and Nose right of front chassis together
 | thread lock | 1 | optional to secure the bolts |
