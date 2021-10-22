@@ -55,7 +55,7 @@ This page contains details about needed parts like nuts and bolts.
 | Rubber O-Ring, 35mm ID, 3mm thick | 4 | used as seal between motor_lower and mow_lower |
 | Sponge rubber cord, OD | 2m | used for sealing covers |
 | Silicone Damper 30.5mm x OD 29 | 4 | easy to mold with silicone, see instruction page |
-| soft Rubber Damper 30mm height x 25mm diameter, Shore 45 | 4 | s alternative for self-molded silicone damper |
+| Soft Rubber Damper 30mm height x 25mm diameter, Shore 45 | 4 | s alternative for self-molded silicone damper |
 | Caster wheel 75mm diameter, 100mm total height | 1 | no flange, no brakes |
 | Cable Gland M12 | 2 | to guide cables between front cover and mow section (i. e. LED or charge connector |
 | Subminiature roller switch Marquardt 1050.5702 | 2 | as bumper switches |

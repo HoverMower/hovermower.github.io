@@ -8,7 +8,7 @@ sidebar: caster wheel
 permalink: caster_block.html
 parent: Lower chassis
 grand_parent: Build instructions
-nav_order: 4
+nav_order: 5
 has_children: false
 ---
 ## Mount Caster block 
