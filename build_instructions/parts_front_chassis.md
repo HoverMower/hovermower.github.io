@@ -1,30 +1,31 @@
 ---
-title: Lower chassis
+title: Front chassis
 tags: [formatting]
 keywords: instructions
-last_updated: September 29, 2021
-summary: "How to build lower chassis"
-sidebar: parts_lower_chassis
-permalink: parts_lower_chassis.html
+last_updated: October 22, 2021
+summary: "How to build front chassis"
+sidebar: parts_front_chassis
+permalink: parts_front_chassis.html
 parent: Build instructions
 has_children: true
-nav_order: 2
+nav_order: 4
 ---
-## Lower Chassis
+## Front Chassis
 
-The lower chassis is the main structural part meaning your robot will be able to drive around only with these parts.
-These parts are the housing of motors, battery, Hoverboard PCB and some other electronics.
+The front chassis acts as cover of the mower. It covers mow disc and blades. Also it acts as a bumper to detect collisions with obstacles.
 
-It only consists of six parts:
-- Motor body lower
-- Motor body upper
-- Motor clamp 2x
-- Wheel arch 
-- Wheel arch mirror
-- Mow lower
-- Mow upper
+It consists of seven parts:
+- Front cover 
+- Front cover (mirrored)
+- Nose left
+- Nose right
+- Bumper front
+- Bumper side
+- Bumper side (mirrored)
 
-![](/render/lower_chassis.png)
-![](/images/lower_chassis.jpg)
+The two parts Nose left and Nose right are not easy to print. You find large overhangs with steep angles. Also you will need lot of support to be able to print.
+
+![](/render/front_cover.png)
+![](/images/front_cover_final.jpg)
 
 
