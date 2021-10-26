@@ -8,7 +8,7 @@ sidebar: parts_lower_chassis
 permalink: parts_lower_chassis.html
 parent: Build instructions
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 ## Lower Chassis
 

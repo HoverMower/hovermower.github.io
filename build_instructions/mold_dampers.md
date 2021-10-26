@@ -8,7 +8,7 @@ sidebar: silicone_dampers
 permalink: mold_dampers.html
 parent: Build instructions
 has_children: false
-nav_order: 3
+nav_order: 2
 ---
 ## Silicone dampers
 The HoverMower chassis consists out of two main parts. The lower chassis acts as housing for motors and electronics and an upper chassis, aka front-chassis, which
