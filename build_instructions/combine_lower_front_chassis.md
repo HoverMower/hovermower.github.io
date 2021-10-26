@@ -8,7 +8,7 @@ sidebar: combine_lower_front_chassis
 permalink: combine_lower_front_chassis.html
 parent: Build instructions
 has_children: false
-nav_order: 4
+nav_order: 5
 ---
 ## Mount dampers to lower chassis
 
