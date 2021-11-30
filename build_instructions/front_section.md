@@ -28,14 +28,15 @@ It also provide a groove to seal this cover. Add eight knurled brass nuts M3 int
 ## Bumper switches
 Hovermower uses the front chassis (white) to detect collisions with obstacles. Therefore, two micro switches (roller style) needs to be assembled to part "Mow upper".
 First, solder some cables to the micro switches. They should act as NC (normally closed). This way you ensure also to detect failed wirings. To keep the switches in place,
-glue two M3 washers (double stacked) on each mounting hole, on each side of each switch. This means, you need 16 wahsers in total for the two switches (2 switches  x 
+glue two M3 washers (double stacked) on each mounting hole, on each side of each switch. This means, you need 16 washers in total for the two switches (2 switches  x 
 2 holes per switch x 2 washers per hole x 2 sides)
 ![](/images/bumper_switches.jpg)
 Next, route the cables through the small hole on each side of the cutout, which acts as housing for switches.  After all steps are done, use some silicone or
 hot glue to close the holes and prevent water from entering.
 ![](/images/bumper_cables.jpg).
 
-Place the switches as shown in the picture below. The roller should oriented to the front. Use 4x M2x20 screws and screw them from the inner side through the switches.
+Place the switches as shown in the picture below. The roller should oriented to the front. Use 4x M2x20 screws and screw them from the inner side (the side shown in picture above)
+ through the switches.
 ![](/images/bumper_switch_upper_front.jpg)
 
 

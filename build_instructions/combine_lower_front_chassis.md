@@ -24,8 +24,10 @@ In all cases, you need M6 nuts and washers to screw dampers to lower chassis.
 ![](/images/lower_chassis_complete.jpg)
 
 ## Mount micro switches 
+This has been done in previous step. See lower chassis front section
 
-## Mount bumper trigger plate
+## Mount bumper trigger
+This has been done in previous step. See front chassis assembly
 
 
 ## Mount front chassis to dampers

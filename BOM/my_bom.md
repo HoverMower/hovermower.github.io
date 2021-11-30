@@ -7,7 +7,8 @@ summary: "List of additional needed parts"
 sidebar: my BOM
 permalink: BOM/my_bom
 nav_order: 2
-has_children: true
+has_children: false
+parent: Bill of material
 ---
 
 ## My Bill of material
