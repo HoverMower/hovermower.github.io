@@ -42,6 +42,7 @@ My version will be equipped with ROS (Robot Operating System) as software stack.
 
 ## Electronics
 | Part | Quantity | Comments |
+|-------|--------|---------|
 | Nvidia Jetson Nano 4GB | 1 | main MCU |
 | LD06 Lidar | 1 | TOF Lidar |
 | BNO085 | 1 | IMU |
