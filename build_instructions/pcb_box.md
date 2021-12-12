@@ -11,7 +11,7 @@ nav_order: 7
 has_children: true
 ---
 ## Prepare your PCB box
-As I don't know how your electronics will look like (and even don't know, how my own electronics will look like), the PCB box was created asind
+As I don't know how your electronics will look like (and even don't know, how my own electronics will look like), the PCB box was created as some kind
 of pattern. You need to change things to meet your requirements. However, a few things will not change so I describe general steps in this section.
 
 The box was designed to be detachable. The idea was taken from Vitulus lawn mower project (https://vitulus.lacina.dev/). This way, you can place all

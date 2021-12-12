@@ -1,12 +1,11 @@
 ---
-title: My Hovermower
+title: My HoverMower
 tags: [formatting]
 keywords: instructions
 last_updated: December 12, 2021
 summary: "How I build my HoverMower"
 sidebar: my_hovermower
 permalink: my_hovermower.html
-parent: Build instructions
 nav_order: 99
 has_children: true
 ---

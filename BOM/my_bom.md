@@ -5,7 +5,7 @@ keywords: my bom, special bill of material
 last_updated: November 07, 2021
 summary: "List of additional needed parts"
 sidebar: my BOM
-permalink: my_hovermower/my_bom
+permalink: my_bom
 nav_order: 2
 has_children: false
 parent: My HoverMower
