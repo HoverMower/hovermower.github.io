@@ -32,9 +32,12 @@ This page contains details about needed parts like nuts and bolts.
 | Knurled brass nut M4 OD 6.3mm height 8mm| 8 |xxx|
 | Cylinder screw M2 x 20 | 4 | for bumper micro switches | 
 | Cylinder screw M3 x 10  | 1 | bolt front nose parts together |
+| Cylinder screw M3 x 14 | 2 | mount PCB lid to PCB box | 
+| Cylinder screw M3 x 18 | 2 | mount PCB lid to PCB box | 
+| Cylinder screw M3 x 32 | 2 | mount PCB lid to PCB box | 
+| Cylinder screw M3 x 15 | 34 | bolt front cover parts together |
 | Counter sunk screw M3 x 10 | 2 | bolt bumper parts together |
 | Counter sunk screw M3 x 5 | 2 | mount bumper trigger to front cover |
-| Cylinder screw M3 x 15 | 34 | bolt front cover parts together |
 | Cylinder screw M4 x 12 | 8 | to bolt wheel arches to motor_lower |
 | Cylinder screw M4 x 14 | 2 (4) | Mow motor clamp Qty depends on count of mow motors|
 | Cylinder screw M5 x 18 | 10 | to bolt motor_lower and mow_lower together | 
