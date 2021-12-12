@@ -7,7 +7,7 @@ summary: "LD06 Lidar instructions"
 sidebar: my_Ld06
 permalink: my_Ld06.html
 parent: My HoverMower
-nav_order: 1
+nav_order: 2
 has_children: false
 ---
 ## LD06

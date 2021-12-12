@@ -1,5 +1,5 @@
 ---
-title: PCB box
+title: PCB Box
 tags: [formatting]
 keywords: instructions
 last_updated: December 12, 2021

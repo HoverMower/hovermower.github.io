@@ -20,4 +20,4 @@ Two 3D printed parts are used to keep D-Sub connectors in place. One gets mounte
 - O-Ring 107mm ID, 2mm thickness
 
 Place them into the groove of each plate, use some super glue to fix, if needed.
-![](/images/dsub25_covers.jpg)
+![](/images/dsub25_cover.jpg)
