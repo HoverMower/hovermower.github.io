@@ -40,3 +40,15 @@ My version will be equipped with ROS (Robot Operating System) as software stack.
 |-------|--------|---------|
 | Rubber O-Ring, 74mm ID, 2mm thick | 1 | used as seal between LD06 lidar mount and PCB box lid |
 
+## Electronics
+| Part | Quantity | Comments |
+| Nvidia Jetson Nano 4GB | 1 | main MCU |
+| LD06 Lidar | 1 | TOF Lidar |
+| BNO085 | 1 | IMU |
+| Intel realsense D435 | 1 | Stereo depth camera |
+| Arduino Nano | 1 | MCU for perimeter sensor, bumper sensor, power management and control of mow motor |
+| Sound Sensor LM386 | 2 | Amplifier for Perimeter signal |
+| Coil 11P Ferrit 150mH | 2 | coil for perimeter amplifier | 
+| Ardumower Perimeter sender board & components | 1 | Sender module for perimeter signal. Can be replaced with Arduino Nano and L298N (https://www.marotronics.de/Perimeter-Sender-Board-mit-Platinen-Zubehoer-Rasenroboter-Schleifen-Sender) |
+| BLDC driver mow motor | 1 | JKBLD300 JKONG Motors| 
+| brushless motor JK57BLS02 | 1 | mow motor JKONG Motors |
