@@ -5,11 +5,11 @@ keywords: instructions
 last_updated: December 12, 2021
 summary: "Prepare cable routing betweeb PCB Box and Mower chassis"
 sidebar: DSub25
-permalink: DSub35.html
+permalink: DSub25.html
 parent: PCB Box
-grant_parent: Build instructions
+grand_parent: Build instructions
 nav_order: 7
-has_children: true
+has_children: false
 ---
 ## D-Sub 25 plugs
 Two pairs of D-Sub 25 connectors are used to route power and signals between PCB Box and mower chassis. I'm not sure if it is a good decision to use this
