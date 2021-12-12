@@ -6,7 +6,8 @@ last_updated: September 29, 2021
 summary: "Information about how to print"
 sidebar: print_instructions
 permalink: print.html
-nav_order: 3
+nav_order: 2
+parent: Home
 has_children: false
 ---
 ## Print instructions
