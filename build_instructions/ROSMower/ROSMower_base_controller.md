@@ -24,8 +24,8 @@ Same is true for ROSMower. An Arduino Nano acts as base controller and is attach
 Some of these devices runs on 5V or higher, so it is not save to attach to RaspberryPI (or similar) directly. The base controller uses a simple UART interface (over USB) to send sensor data and state as well as to receive some simple commands (toggle switches, control mow motor).
 
 If you're interested in the software of this base controller, please refer to this git repositories:
-- ![Arduino Firmware for base controller](https://github.com/HoverMower/hovermower_base_controller)
-- ![ROS node for base controller](https://github.com/HoverMower/ros_hovermower_base_controller)
+- [Arduino Firmware for base controller](https://github.com/HoverMower/hovermower_base_controller)
+- [ROS node for base controller](https://github.com/HoverMower/ros_hovermower_base_controller)
 
 If you plan to use this base controller as well, check file config.h for PIN definition
 ![](/images/ROSMower/base_controller_hardware.jpg)

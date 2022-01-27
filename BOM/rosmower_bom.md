@@ -1,5 +1,5 @@
 ---
-title: ROSMower of material
+title: ROSMower bill of material
 tags: [formatting]
 keywords: rosmower bom, special bill of material
 last_updated: November 07, 2021
@@ -41,6 +41,7 @@ My version will be equipped with ROS (Robot Operating System) as software stack.
 | Rubber O-Ring, 74mm ID, 2mm thick | 1 | used as seal between LD06 lidar mount and PCB box lid |
 
 ## Electronics
+
 | Part | Quantity | Comments |
 |-------|--------|---------|
 | Nvidia Jetson Nano 4GB | 1 | main MCU |
