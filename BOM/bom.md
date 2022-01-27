@@ -70,7 +70,7 @@ This page contains details about needed parts like nuts and bolts.
 | Silicone Damper 30.5mm x OD 29 | 4 | easy to mold with silicone, see instruction page |
 | Soft Rubber Damper 30mm height x 25mm diameter, Shore 45 | 4 | s alternative for self-molded silicone damper |
 | Caster wheel 75mm diameter, 100mm total height | 1 | no flange, no brakes |
-| Cable Gland M12 | 2 | to guide cables between front cover and mow section (i. e. LED or charge connector |
+| Cable Gland M12 | 4 | to guide cables between front cover and mow section (i. e. LED or charge connector), control unit inner box |
 | Subminiature roller switch Marquardt 1050.5702 | 2 | as bumper switches |
 | D-Sub 25 pin pair of male and female | 2 | used to route power and signals between PCB box and chassis |
 | Super glue | 1 | |
