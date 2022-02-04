@@ -9,7 +9,7 @@ has_children: true
 
 ## Welcome to HoverMower
 HoverMower is a robot lawn mower based on Hoverboard Hardware. 
-![](/render/Mower_front.png)
+![](/images/intro_large.jpg)
 
 ## Why Hoverboard 
 In past years, Hoverboards became popular toys. They are build around two really strong brushless hub motors. Also they are equipped with a STM32 based PCB which acts as motor driver. 
