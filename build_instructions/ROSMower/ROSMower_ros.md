@@ -7,7 +7,7 @@ summary: "ROSMower ROS section"
 sidebar: rosmower_ros
 permalink: ROSMower_ros.html
 parent: ROSMower
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 ## ROSMower ROS

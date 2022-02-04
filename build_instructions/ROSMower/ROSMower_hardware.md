@@ -7,7 +7,7 @@ summary: "ROSMower hardware"
 sidebar: rosmower_hardware
 permalink: ROSMower_hardware.html
 parent: ROSMower
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 ## ROSMower Hardware

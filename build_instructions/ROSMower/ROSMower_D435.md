@@ -6,8 +6,8 @@ last_updated: February 04, 2022
 summary: "Installation of Intel RealSense D435 stereo depth camera"
 sidebar: rosmower_D435
 permalink: ROSMower_D435.html
-parent: ROSMower ros
-nav_order: 6
+parent: ROSMower ROS
+nav_order: 1
 has_children: false
 ---
 ## Intel RealSense D435 stereo depth camera
