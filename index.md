@@ -22,9 +22,12 @@ This project will consists out of different repositories. I tried to build it as
 - [3D files of Chassis](https://github.com/HoverMower/hovermower-chassis)
 
 Other repositories used to build HoverMower controlled by ROS
+- [ROSMower main package for lawn mower](https://github.com/HoverMower/ROSMower)
+- [rosmower_msgs Package containig message and service definition files](https://github.com/HoverMower/rosmower_msgs)
 - [HoverMower Base Controller](https://github.com/HoverMower/hovermower_base_controller)
 - [ROS wrapper for HoverMower Base Controller](https://github.com/HoverMower/ros_hovermower_base_controller)
 - [Power PCB for HoverMower](https://github.com/HoverMower/Ardumower_PCBs)
+
 
 
 ## Additional resources 
