@@ -7,6 +7,7 @@ summary: "base controller of ROSMower"
 sidebar: rosmower_base_controller
 permalink: ROSMower_base_controller.html
 parent: ROSMower Hardware
+grand_parent: ROSMower
 nav_order: 3
 has_children: false
 ---

@@ -7,6 +7,7 @@ summary: "perimeter sensor"
 sidebar: rosmower_perimeter
 permalink: ROSMower_perimeter.html
 parent: ROSMower Hardware
+grand_parent: ROSMower
 nav_order: 4
 has_children: false
 ---

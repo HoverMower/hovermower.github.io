@@ -7,6 +7,7 @@ summary: "other hardware of ROSMower"
 sidebar: rosmower_hardware_overview
 permalink: ROSMower_hardware_overview.html
 parent: ROSMower Hardware
+grand_parent: ROSMower
 nav_order: 5
 has_children: false
 ---

@@ -7,6 +7,7 @@ summary: "Installation of Intel RealSense D435 stereo depth camera"
 sidebar: rosmower_D435
 permalink: ROSMower_D435.html
 parent: ROSMower ROS
+grand_parent: ROSMower
 nav_order: 1
 has_children: false
 ---

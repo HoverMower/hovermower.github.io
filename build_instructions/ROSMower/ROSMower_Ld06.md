@@ -7,6 +7,7 @@ summary: "LD06 Lidar instructions"
 sidebar: rosmower_Ld06
 permalink: ROSMower_Ld06.html
 parent: ROSMower Hardware
+grand_parent: ROSMower
 nav_order: 2
 has_children: false
 ---
