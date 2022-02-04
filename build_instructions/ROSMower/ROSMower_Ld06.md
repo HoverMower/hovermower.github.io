@@ -6,7 +6,7 @@ last_updated: December 12, 2021
 summary: "LD06 Lidar instructions"
 sidebar: rosmower_Ld06
 permalink: ROSMower_Ld06.html
-parent: ROSMower
+parent: ROSMower Hardware
 nav_order: 2
 has_children: false
 ---

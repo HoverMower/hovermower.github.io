@@ -6,7 +6,7 @@ last_updated: January 27, 2022
 summary: "base controller of ROSMower"
 sidebar: rosmower_base_controller
 permalink: ROSMower_base_controller.html
-parent: ROSMower
+parent: ROSMower Hardware
 nav_order: 3
 has_children: false
 ---

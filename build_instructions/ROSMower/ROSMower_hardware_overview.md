@@ -6,7 +6,7 @@ last_updated: January 27, 2022
 summary: "other hardware of ROSMower"
 sidebar: rosmower_hardware_overview
 permalink: ROSMower_hardware_overview.html
-parent: ROSMower
+parent: ROSMower Hardware
 nav_order: 5
 has_children: false
 ---

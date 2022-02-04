@@ -6,7 +6,7 @@ last_updated: January 27, 2022
 summary: "perimeter sensor"
 sidebar: rosmower_perimeter
 permalink: ROSMower_perimeter.html
-parent: ROSMower
+parent: ROSMower Hardware
 nav_order: 4
 has_children: false
 ---
