@@ -21,6 +21,11 @@ This project will consists out of different repositories. I tried to build it as
 
 - [3D files of Chassis](https://github.com/HoverMower/hovermower-chassis)
 
+Other repositories used to build HoverMower controlled by ROS
+- [HoverMower Base Controller](https://github.com/HoverMower/hovermower_base_controller)
+- [ROS wrapper for HoverMower Base Controller](https://github.com/HoverMower/ros_hovermower_base_controller)
+- [Power PCB for HoverMower](https://github.com/HoverMower/Ardumower_PCBs)
+
 
 ## Additional resources 
 HoverMower uses a custom Firmware to control motors, which gets flashed to the origin HoverBoard PCB. The firmware uses serial commands to drive motor and send sensor data back. You can hook up any kind of MCU, no matter if it is Arduino, RaspberryPI or NVidia Jetson. The firmware is not part of this project, so please have a look here for any reference or instructions.
