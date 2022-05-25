@@ -45,7 +45,7 @@ So the base station consists out of these few parts
 - USB cables
 
 I printed an enclosure for these parts
-![](/images/GPS/GPSBase.jpg)
+![](/images/GPS/GPS_base.jpg)
 
 ## GPS Antenna
 The GPS antenna of base station can be mounted without additional protection as it is already IP67 rated. To get better signal, it commonly gets mounted on a solid sheed of 
@@ -54,4 +54,4 @@ The antenna gets mounted to my TV satellite antenna on the roof of my house.
 
 ![](/images/GPS/GPS1.jpg)
 ![](/images/GPS/GPS2.jpg)
-![](/images/GPS/GPS.jpg)
+![](/images/GPS/GPS3.jpg)
