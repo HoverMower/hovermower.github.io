@@ -33,12 +33,12 @@ I'm living in a village with lots of small houses. The area of each ground is be
 neighbours are only a couple of meters beneath my own. The rover has to operate between houses. Moreover, there are many hills which means, the houses
 of my neighbours are often higher than my own.
 
-![](/images/GPS/RTK/Environment1.jpg)
-![](/images/GPS/RTK/Environment2.jpg)
+![](/images/GPS/RTK/Environment.jpg)
+![](/images/GPS/RTK/Environment_2.jpg)
 
 ### Test conditions
 During the test, the Rover is placed approx 2.5 meters beneath the house at a static position. To keep things easy, the Rover itself is turned off, so 
-there is no electronic noise from NVidia Jetson, Wifi or other components. During each test, the antenna gets placed on the same position on the Rover.
+there is no electronical noise from NVidia Jetson, Wifi or other components. During each test, the antenna gets placed on the same position on the Rover.
 The simpleRTK board is placed approx 10cm beneath the antenna (under the red cover) and connected to a Notebook, which is approx 2m beneath the Rover.
 
 During each test, I measuse the time between cold-start of the GPS module and the first RTK-FIX solution.
@@ -47,13 +47,13 @@ During each test, I measuse the time between cold-start of the GPS module and th
 The purpose of this test was to find best antenna setup. As we already know, a ground plane should be added to antenna to get good signal.
 But which kind of material is a good solution? How affect size and material the signal? Expensive GPS antennas are often constructed as 
 choke ring antennas. They're commonly used for fixed installation like base stations but I didn't find examples where they're used for Rover. As they're expensive,
-I tried to build apoor man choke ring antenna.
+I tried to build a poor man choke ring antenna.
 
 The test objects are:
 - steel disk 170mm x 3mm
 - round steel box with diameter 120mm and 60mm height (cover for stove pipes from local hardware store). I name it small box in further.
 - round steel box with diameter 150mm and 50mm height (cover for stove pipes from local hardware store). I name it large box in further.
-- poor man choke ring antenna. SImply place the smaller box inside the larger one and place antenna inside
+- poor man choke ring antenna. Simply place the smaller box inside the larger one and place antenna inside
 
 ![](/images/GPS/RTK/candidates.jpg)
 
@@ -80,8 +80,10 @@ outside is a good candidate and I'll go this way.
 
 ### Difference in Lat/Lon of each test
 During the test, I noticed that there is not only a difference in altitude but also in lat and lon. I'm not sure if this is normal or if this will cause issues. 
-I wil observe this closely and will check base station again, if it operates in correct state (TIME).
+I wil observe this closely and will check base station again, if it operates in correct state (TIME). Small box outside has the smallest deviation in Lat and Lon.
 ![](/images/GPS/RTK/Diagram.png)
+![](/images/GPS/RTK/Deviation_Lat.png)
+![](/images/GPS/RTK/Deviation_Lon.png)
 
 ### Steel disc
 ![](/images/GPS/RTK/steel_plate.jpg)
